@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1767224656926,"sparkVersion":"3.5.7","uid":"OneHotEncoder_6344377757ab","paramMap":{"outputCol":"Device_Type_ohe","inputCol":"Device_Type_idx"},"defaultParamMap":{"outputCol":"OneHotEncoder_6344377757ab__output","handleInvalid":"error","dropLast":true}}

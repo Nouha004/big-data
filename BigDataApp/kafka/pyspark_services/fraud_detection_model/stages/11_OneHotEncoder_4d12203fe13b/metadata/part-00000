@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1767224660290,"sparkVersion":"3.5.7","uid":"OneHotEncoder_4d12203fe13b","paramMap":{"outputCol":"Authentication_Method_ohe","inputCol":"Authentication_Method_idx"},"defaultParamMap":{"outputCol":"OneHotEncoder_4d12203fe13b__output","dropLast":true,"handleInvalid":"error"}}
